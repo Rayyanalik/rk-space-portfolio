@@ -264,7 +264,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/Itsrk8401",
+        link: "https://github.com/Rayyanalik",
       },
       {
         name: "Discord",
@@ -312,5 +312,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/Itsrk8401/rk-space-portfolio.git",
+  sourceCode: "https://github.com/Rayyanalik/rk-space-portfolio",
 };
