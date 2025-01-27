@@ -48,12 +48,13 @@ space-portfolio/
   |- postcss.config.js
   |- tailwind.config.ts
   |- tsconfig.json
-
+  
   # Screenshots
 
-  ![img2](https://github.com/user-attachments/assets/602614a2-29ef-4a25-91f1-02a6c4bc9ff5)
+  <img width="1695" alt="Screenshot 2025-01-26 at 10 49 14 PM" src="https://github.com/user-attachments/assets/0b5022d8-416b-4325-9b83-98506541562d" />
+<img width="1698" alt="Screenshot 2025-01-26 at 10 49 25 PM" src="https://github.com/user-attachments/assets/303836f8-6497-4ae0-a361-92d702456f6d" />
+<img width="1698" alt="Screenshot 2025-01-26 at 10 49 35 PM" src="https://github.com/user-attachments/assets/b2d85082-966d-4d74-b04d-a08cda6adfe3" />
 
-  ![img3](https://github.com/user-attachments/assets/c97fcf0b-4c50-4736-9fab-5e91d3ea570b)
 
   # Stats 
 ![Uploading stats.sv
