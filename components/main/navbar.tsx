@@ -19,7 +19,7 @@ export const Navbar = () => {
         >
           <Image
             src="/wand.png"
-            alt="Logo"
+            alt=""
             width={70}
             height={70}
             draggable={false}
