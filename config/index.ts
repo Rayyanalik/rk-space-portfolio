@@ -36,7 +36,7 @@ export const siteConfig: Metadata = {
   ] as Array<string>,
   authors: {
     name: "Ali Rayyan Mohammed",
-    url: "https://github.com/Itsrk8401",
+    url: "https://github.com/Rayyanalik",
   },
 } as const;
 
