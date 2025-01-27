@@ -1,6 +1,6 @@
 ![stats](https://github.com/user-attachments/assets/cc5753ec-8312-4d0e-9ba3-1743764e86ab)
 
-# rk-space-portfolio
+# Rk-space-portfolio
 
 # Modern Space Theme Portfolio using Next.js 14 and Three.js
 
