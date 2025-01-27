@@ -18,7 +18,7 @@ export const Navbar = () => {
           className="flex items-center"
         >
           <Image
-            src="rk-logo2.png"
+            src="rk.png"
             alt=""
             width={70}
             height={70}
